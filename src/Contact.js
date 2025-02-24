@@ -18,10 +18,10 @@ const Contact = () => {
     setSubmitStatus(null);
 
     emailjs.sendForm(
-      'service_9z4q1rg',
-      'template_l2zhyqf',
+      'XXXXXXXXXX',  // Add service ID
+      'XXXXXXXXXXX', // Add Template ID
       form.current,
-      'ZpTIIyS2dofg5_9Ux',
+      'XXXXXXXXXXX',  // Add Key
       {
         reply_to: form.current.user_email.value
       }
