@@ -1,14 +1,14 @@
 # Creationbase Website
 =========================
-Creationbase is an innovation company focused on building yopur next app.
+- Creationbase is an innovation company focused on building yopur next app.
 
 ## Technologies Used
 ----------------------
 
-- ** React: A JavaScript library for building user interfaces
-- ** Vanta.js: A JavaScript library for creating 3D animations
-- ** Sender.net: An email marketing platform for sending newsletters
-- ** EmailJS: A JavaScript library for sending emails
+- React: A JavaScript library for building user interfaces
+- Vanta.js: A JavaScript library for creating 3D animations
+- Sender.net: An email marketing platform for sending newsletters
+- EmailJS: A JavaScript library for sending emails
 
 ## Getting Started
 -------------------
