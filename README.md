@@ -30,6 +30,7 @@ npm start
 ## Acknowledgments
 -----------------
 We would like to thank the developers of Vanta.js, Sender.net, and EmailJS for their amazing libraries and services.
+
 Contact
 ---------
 If you have any questions or need help with the project, please don't hesitate to contact us:
