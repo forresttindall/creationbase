@@ -35,6 +35,6 @@ Contact
 ---------
 If you have any questions or need help with the project, please don't hesitate to contact us:
 
-[Email: Forrest@creationbase.io](forrest@creationbase.io)
+[Email: Forrest@creationbase.io](email:to:forrest@creationbase.io)
 [Website: https://creationbase.io](https://creationbase.io)
 
