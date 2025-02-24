@@ -14,10 +14,10 @@ const Newsletter = () => {
         setStatus('');
 
         try {
-            const response = await fetch('https://api.sender.net/v2/subscribers', {
+            const response = await fetch('https://api.sender.net/v2/path', { // Path to your list
                 method: 'POST',
                 headers: {
-                    'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMzE5MmIxYjI3MjQ1NWNkMjU3ODdlNDQ5ZTA1MTAwZTBlN2RmYWEzZWMyMmYyZjU4M2ZiZGZkYmZjY2RlYTlkN2RjNWViOGEwNjhiNDkyNDUiLCJpYXQiOiIxNzM4MTY3MzA5LjAxNDEzMSIsIm5iZiI6IjE3MzgxNjczMDkuMDE0MTM0IiwiZXhwIjoiNDg5MTc2NzMwOS4wMTI5MzQiLCJzdWIiOiI4OTYyNjMiLCJzY29wZXMiOltdfQ.oSEKC7qxRVn2qqUnOzf2B0JsMjpArS_D5j78JOajheDHDBpavF6k9izbgDlxN_JtuMEDQMBxAbHtQToBT6KFyw',
+                    'Authorization': 'Bearer XXXXXXXXX', // Add Bearer Token
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({
